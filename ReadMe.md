@@ -1,14 +1,11 @@
 # Hello, I'm Phillip Porter
 <a href="https://www.linkedin.com/in/phillipcporter/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
+Experienced Cybersecurity Analyst with a working history and formal education in understanding best cybersecurity practices. Skilled in DLP, Network Security, NIST, ISO, PCI, GLBA, HIPPA, and a few programming languages. Strong proven Project Management skills and has the ability to lead and develop Junior analysts. MBA and MS in Cybersecurity holder I have a thirst for knowledge and plan to stay on the cutting edge of security implementation. I have my Comptia Sec+, AWS CCP, SPLUNK and Qualys certifications along with working knowledge of SIEM and SOAR systems
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+With a strong foundation in cybersecurity and a growing passion for GRC (Governance, Risk, and Compliance), I am eager to transition from my technical analyst role to a position where I can further develop my skills. I am looking to join a forward-thinking company that values cybersecurity and offers opportunities for growth, where I can leverage my knowledge to become a valuable asset to the business.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
