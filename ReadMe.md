@@ -1,4 +1,4 @@
-# Hello, I'm Phillip Porter
+# Hello, I'm Phillip
 <a href="https://www.linkedin.com/in/phillipcporter/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Experienced Cybersecurity Analyst with a working history and formal education in understanding best cybersecurity practices. Skilled in DLP, Network Security, NIST, ISO, PCI, GLBA, HIPPA, and a few programming languages. Strong proven Project Management skills and has the ability to lead and develop Junior analysts. MBA and MS in Cybersecurity holder I have a thirst for knowledge and plan to stay on the cutting edge of security implementation. I have my Comptia Sec+, AWS CCP, SPLUNK and Qualys certifications along with working knowledge of SIEM and SOAR systems
