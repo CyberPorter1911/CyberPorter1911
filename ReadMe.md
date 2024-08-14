@@ -12,7 +12,7 @@ With a strong foundation in cybersecurity and a growing passion for GRC (Governa
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Assessing and Securing Systems on a Wide Area Network (WAN) | <a href="https://github.com/CyberPorter1911/Wide-Area-Network-Lab/blob/CyberPorter1911/README.md">Wide Area Network Lab</a>|
-| Risk Management | <a href="https://google.com">Writing/Reporting Sample</a>|
+| Risk Management | <a href="https://github.com/CyberPorter1911/Risk-Management/blob/CyberPorter1911/README.md">Writing/Reporting Sample</a>|
 | Security Automation with Shuffle SOAR         |  <a href="https://google.com">SIEM Lab</a>|
 | Incident Response Planning and Execution      |  <a href="https://google.com">Detection Lab</a>|
 | Case Management with TheHive                  |  <a href="https://google.com">Detection Lab</a>|
