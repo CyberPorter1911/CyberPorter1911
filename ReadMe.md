@@ -11,7 +11,7 @@ With a strong foundation in cybersecurity and a growing passion for GRC (Governa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Assessing and Securing Systems on a Wide Area Network (WAN) | <a href="https://google.com">Wide Area Network Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
