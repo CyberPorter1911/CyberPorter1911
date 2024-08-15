@@ -60,6 +60,6 @@ With a strong foundation in cybersecurity and a growing passion for GRC (Governa
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://x.com/2KritiKal
-[instagram]: https://www.instagram.com/2kritikal/
+[twitter]: https://x.com/
+[instagram]: https://www.instagram.com/
 [linkedin]: https://www.linkedin.com/in/phillipcporter/
